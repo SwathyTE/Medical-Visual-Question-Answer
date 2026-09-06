@@ -1,1 +1,8 @@
-
+torch
+transformers
+datasets
+accelerate
+Pillow
+numpy
+pandas
+scikit-learn
